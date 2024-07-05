@@ -1,3 +1,5 @@
+Code is built on Amazon Web Services : https://aws.amazon.com/
+
 The project presented two challenges: improving website speed in the face of increased user traffic and strengthening security measures in response to an attempted ransomware security breach. The design choices that follow were carefully considered to address these issues and adhere to industry best practices.
 
 We moved the MySQL database over to Amazon RDS to strengthen data protection. By taking this action, possible risks are mitigated, and industry compliance criteria are met by ensuring strong data encryption both in transit and at rest. Using RDS improves scalability and reliability while streamlining database administration.
